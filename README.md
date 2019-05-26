@@ -2,6 +2,12 @@
 
 Install modules with `npm install`.
 
+Add your API Keys in app.js
+```
+rapidapiKey = '<your_rapidapiKey_key>';
+openweathermapKey = '<your_openweathermapKey_key>';
+```
+
 ### Example
 Petition:
 ```
